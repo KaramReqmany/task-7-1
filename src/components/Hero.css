@@ -1,0 +1,49 @@
+.hero{
+    
+    width: calc(100vw - 80px);
+    background-color: blue;
+    margin: 30px auto;
+    border: none;
+    border-radius: 20px;
+    
+
+}
+.custom-width{
+    width: fit-content;
+}
+.side-1{
+    width: 500px;
+    height: 70vh;
+    
+}
+.side-2{
+    height: 70vh;
+    width: 500px;
+    
+    height: 100%;
+    text-align: center;
+}
+.side-2 img{
+    
+    width: 300px;
+   
+
+
+}
+.orange{
+    background-color: orange;
+}
+.brands img{
+    width: 150px;
+    
+}
+.circle-shape{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding: 10px;
+    margin-top: -100px;
+    background-color: white;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}

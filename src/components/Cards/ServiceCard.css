@@ -1,0 +1,14 @@
+.service-card{
+    width: 270px;
+    background-color: rgb(241, 244, 250);
+    border: solid rgb(211, 211, 240) 1px;
+}
+.service-card button{
+    background-color: inherit;
+    border:solid 1px rgb(211, 211, 240) ;
+}
+.service-card img{
+    padding: 5px;
+    border:solid 1px rgb(211, 211, 240) ;
+
+}

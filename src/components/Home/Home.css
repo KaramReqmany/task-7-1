@@ -1,0 +1,56 @@
+h3{
+    width: 400px;
+}
+.pricing{
+    padding-bottom: 300px;
+}
+.monthly-yearly{
+    border: solid 1px rgb(233, 228, 228);
+    width: fit-content;
+}
+.diamond{
+    position: absolute;
+    top: 10%;
+    right: -10%;
+}
+.hand{
+    position: absolute;
+    bottom: 0;
+    left: -20%;
+}
+.testimonials{
+    padding-bottom: 40px;
+    padding-top: 300px ;
+    background-color: rgb(245, 245, 253);
+}
+.contact-us{
+    top: -40%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    background-color: blue;
+    width: 70vw;
+   
+    
+}
+.testimonials .scroll{
+    height: 20px;
+    width: 350px;
+    background-color: rgb(224, 224, 255);
+}
+.testimonials .scroll div{
+    width: 130px;
+}
+.custom-border{
+    border: solid 1px rgb(233, 228, 228);
+}
+.blog{
+    max-width: 80%;
+}
+@media (max-width:1350px) {
+    .deactive{
+        display: none;
+    }
+    .blogcards{
+        justify-content: center !important;
+    }
+}

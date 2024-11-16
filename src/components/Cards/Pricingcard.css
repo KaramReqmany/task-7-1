@@ -1,0 +1,14 @@
+.pricing-card{
+    width: 300px;
+    border: solid 1px rgb(233, 228, 228);
+}
+.pricing-card button{
+    border: solid 1px rgb(233, 228, 228);
+    padding: 10px;
+    color: blue;
+    background-color: inherit;
+    border-radius: 15px;
+}
+.pricing-card ul{
+    list-style: none;
+}

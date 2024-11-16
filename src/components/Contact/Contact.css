@@ -1,0 +1,25 @@
+.details{
+    height: 540px;
+    width: 400px;
+    background-color: blue;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    padding: 20px;
+    overflow-y: hidden;
+}
+.video{
+    width: 400px;
+}
+.form{
+    width: 500px;
+}
+.form textarea{
+    width: 100% !important;
+    height: 100px !important;
+}
+.map{
+    width: 100vw;
+    height: 400px;
+    overflow-x: hidden;
+}

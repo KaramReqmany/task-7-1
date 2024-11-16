@@ -1,0 +1,47 @@
+nav{
+    
+    width: 80%;
+    background-color: white;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    border: solid 5px rgb(191, 191, 247);
+    border-radius:50px ;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%);
+    border-top: 0;
+    padding: 5px 15px ;
+
+}
+nav img{
+    width: 80px;
+}
+nav h1{
+    font-size: 25px;
+    font-weight: 700;
+}
+nav ul{
+    margin-top: auto;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+nav button{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 30px;
+}
+

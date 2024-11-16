@@ -1,0 +1,17 @@
+.blog-card{
+    width: 320px;
+}
+.blog-card .picture{
+    position: absolute;
+    z-index: -99;
+    
+    
+    top: -75%;
+    left: -5%;
+}
+.blog-card .picture img{
+    width: 350px;
+}
+.blogcards{
+    padding-top: 200px;
+}
